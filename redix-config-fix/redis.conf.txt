@@ -1,0 +1,8 @@
+# Redis configuration file
+
+# Buggy line (wrong port)
+port 6380
+
+# Bind to localhost
+bind 127.0.0.1
+
